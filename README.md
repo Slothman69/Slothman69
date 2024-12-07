@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning HTML, CSS, Python, laMBDA and AWS
 - 💞️ I’m looking to collaborate on Game development
 - 📫 How to reach me: Email:ronanbritz420@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Seasoned gamer
 
 <!---
